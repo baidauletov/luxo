@@ -1,0 +1,21 @@
+.footer {
+	background: #24242c;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 100px;
+}
+
+.footer__title {
+	display: inline-block;
+	color: #797c82;
+	font-family: "Open Sans";
+	font-size: 13px;
+	font-weight: 300;
+}
+
+.footer__social {
+	width: 200px;
+	display: flex;
+	justify-content: space-around;
+}

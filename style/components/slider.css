@@ -1,0 +1,37 @@
+.slider {
+	background-color: #ffb600;
+	opacity: 0.7;
+	text-align: center;
+	padding-top: 160px;
+	padding-bottom: 125px;
+}
+
+.slider__title {
+	color: #ffffff;
+	font-family: "Open Sans";
+	font-size: 35px;
+	font-weight: 400;
+	margin-bottom: 30px;
+	text-transform: capitalize;
+}
+
+.slider__text {
+	color: #24242c;
+	font-family: "Open Sans";
+	font-size: 15px;
+	font-weight: 400;
+	margin-bottom: 45px;
+}
+
+.slider__button {
+	color: #ffffff;
+	font-family: "Open Sans";
+	font-size: 13px;
+	font-weight: 400;
+	text-transform: capitalize;
+	text-decoration: none;
+	background-color: #24242c;
+	padding: 20px 40px;
+	border: 1px solid #fff;
+	border-radius: 10px;
+}

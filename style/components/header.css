@@ -1,0 +1,19 @@
+.header {
+	height: 90px;
+	background-color: #24242c;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.header__logo {
+
+}
+
+.header__button {
+	color: #97999b;
+	font-family: "Open Sans";
+	font-size: 13px;
+	font-weight: 400;
+	text-decoration: none;
+}
